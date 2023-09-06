@@ -4,7 +4,7 @@ This is my project for Bharat Internship in Machine Learning performing "House P
 ## Task Given Was:
 Machine Learning model to predict house price using linear regression only Jupyter notebook code.
 
-##Pictures of the Program Written:
+## Pictures of the Program Written:
 Part 1: (Matrix Manufacturing)
 ![Screenshot (200)](https://github.com/rudraksh2611/Bharat_Intern/assets/117443595/013aa3e0-67dd-4d64-8857-6d80d80bbcf7)
 
